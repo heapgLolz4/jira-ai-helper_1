@@ -1,0 +1,10 @@
+{
+  "name": "jira-ai-helper",
+  "version": "1.0.0",
+  "description": "Jira AI assistant template",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
